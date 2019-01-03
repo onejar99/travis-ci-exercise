@@ -10,3 +10,8 @@ it('should add two numbers II', () => {
     let rlt = utils.add(101, 0);
     expect(rlt).toBe(101);
 });
+
+it('should add two numbers III (failed case)', () => {
+    let rlt = utils.add(1, 0);
+    expect(rlt).toBe(10);
+});
