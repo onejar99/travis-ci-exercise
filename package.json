@@ -1,0 +1,24 @@
+{
+  "name": "travis-ci-exercise",
+  "version": "1.0.0",
+  "description": "A simple exercise for Travis-CI.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onejar99/travis-ci-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onejar99/travis-ci-exercise/issues"
+  },
+  "homepage": "https://github.com/onejar99/travis-ci-exercise#readme",
+  "dependencies": {
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0"
+  }
+}
