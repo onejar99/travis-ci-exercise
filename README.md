@@ -1,5 +1,7 @@
 # travis-ci-exercise
 
+[![Build Status](https://travis-ci.org/onejar99/travis-ci-exercise.svg?branch=master)](https://travis-ci.org/onejar99/travis-ci-exercise)
+
 A simple exercise for Travis-CI.
 
 
