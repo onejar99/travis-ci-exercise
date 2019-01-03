@@ -13,5 +13,5 @@ it('should add two numbers II', () => {
 
 it('should add two numbers III (failed case)', () => {
     let rlt = utils.add(1, 0);
-    expect(rlt).toBe(10);
+    expect(rlt).toBe(1);
 });
